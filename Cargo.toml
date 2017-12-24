@@ -5,4 +5,4 @@ authors = ["Scott Riley <scott.riley111@gmail.com>"]
 
 [dependencies]
 stdweb = "0.2.0"
-sha1 = "0.3.0"
+rand = "0.4.1"
